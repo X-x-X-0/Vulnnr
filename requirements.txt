@@ -4,9 +4,9 @@ attrs==20.3.0
 beautifulsoup4==4.9.3                                                     
 bs4==0.0.1                                                                
 certifi==2020.6.20                                                        
-colorama==0.4.4                                                           
-cryptography==2.6.1                                                                                                              
-google==3.0.0                                                             
+colorama==0.4.4  
+cryptography==2.6.1                                                            
+google==3.0.0
 html5lib==1.0.1                                                           
 lxml==4.3.2                                                               
 multidict==4.7.6                                                          
